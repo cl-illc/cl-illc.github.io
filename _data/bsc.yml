@@ -1,0 +1,21 @@
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 4
+  prog: Bachelor Artificial Intelligence
+  img: nlmi
+  title: Natural Language Models and Interfaces
+  url: //uva-slpl.github.io/nlmi/
+  institution: UvA
+  github: uva-slpl/nlmi
+  about: | 
+    This is a second-year course offered to students in the Bachelor's in Artificial Intelligence programme of the University of Amsterdam. The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation:
+
+    * Review of probability theory
+    * Probability of a setence
+    * Markov Models and n-gram language modelling
+    * Hidden Markov Models and part of speech tagging
+    * Probabilistic context-free grammars 
+    * Locally normalised log-linear models
+    * Distributional semantics and neural models of word representation
+    * Overview of NLP applications

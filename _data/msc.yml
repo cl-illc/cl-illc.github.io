@@ -1,0 +1,31 @@
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 5
+  prog: Master Artificial Intelligence
+  img: ull
+  title: Unsupervised Language Learning
+  url: //uva-slpl.github.io/ull/
+  institution: UvA
+  github: uva-slpl/ull
+  about: | 
+    This is a second-year course offered to students in the Masters' in Artificial Intelligence programme of the University of Amsterdam. The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
+
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 5 
+  prog: Master Artificial Intelligence
+  img: nlp2
+  title: Natural Language Processing II
+  url: //uva-slpl.github.io/nlp2/
+  institution: UvA
+  github: uva-slpl/nlp2 
+  about: |
+    This is a course about multilinguality and machine translation. 
+
+    The course is organised in three blocks
+
+    * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)
+    * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarhical PBSMT
+    * Neural machine translation: fully supervised sequence to sequence models, deep generative models

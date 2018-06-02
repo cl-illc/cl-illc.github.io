@@ -8,8 +8,6 @@ layout: main
 
 * More about [ILLC](//www.illc.uva.nl)
 * More about [language and computation at ILLC](http://www.illc.uva.nl/Research/Programmes/laco/)
-
-# Activities
-
-Check our [reading groups](/reading).
+* [Courses](/teaching)
+* [Reading groups](/reading).
 
