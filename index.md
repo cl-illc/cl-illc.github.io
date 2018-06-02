@@ -11,6 +11,5 @@ layout: main
 
 # Activities
 
-* [Deep learning reading group](/content/dl)
-* [Other reading groups](//wilkeraziz.github.io/events.html)
+Check our [reading groups](/reading).
 
