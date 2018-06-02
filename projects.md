@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-menu: yes
+menu: no
 ---
 
 We offer student projects on topics such as:
