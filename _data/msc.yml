@@ -9,7 +9,7 @@
   institution: UvA
   github: uva-slpl/ull
   about: | 
-    This is a second-year course offered to students in the Masters' in Artificial Intelligence programme of the University of Amsterdam. The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
+    The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
 
 -
   layout: course
@@ -22,9 +22,7 @@
   institution: UvA
   github: uva-slpl/nlp2 
   about: |
-    This is a course about multilinguality and machine translation. 
-
-    The course is organised in three blocks
+    This is a course about multilinguality and machine translation where we cover:
 
     * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)
     * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarhical PBSMT
