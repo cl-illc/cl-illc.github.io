@@ -8,7 +8,7 @@
   url: //uva-slpl.github.io/ull/
   institution: UvA
   github: uva-slpl/ull
-  about: | 
+  abstract: | 
     The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
 
 -
@@ -21,7 +21,7 @@
   url: //uva-slpl.github.io/nlp2/
   institution: UvA
   github: uva-slpl/nlp2 
-  about: |
+  abstract: |
     This is a course about multilinguality and machine translation where we cover:
 
     * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)

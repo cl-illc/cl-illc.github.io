@@ -8,11 +8,9 @@
     {% if include.group.people %}Organisers: {{ include.group.people }}.{% endif %}
     <br/>
     {% if include.group.note %}<i>{{ include.group.note }}</i>{% endif %}
-    <br/>
-
     <!-- abstract -->
     {% if include.group.abstract %}
-      <a data-toggle="modal" href="#abstract{{ include.group.uid }}" class="label label-default">Abstract</a>
+      <a data-toggle="modal" href="#abstract{{ include.group.uid }}" class="label label-default">abstract</a>
       <!-- Modal -->
       <div class="modal fade" id="abstract{{ include.group.uid }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
           <div class="modal-content">

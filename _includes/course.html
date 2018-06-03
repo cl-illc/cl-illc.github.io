@@ -8,27 +8,21 @@
     <img src="/img/ico/{{ include.course.institution }}.png" alt=""/>
     {% endif %}
     <strong>{{ include.course.title }} </strong><br/>
+    {% if include.course.prog %}
+    <small><i>{{ include.course.prog }}</i></small>
+    {% endif %}
+    {% if include.course.when %}
+    <small> | <i>{{ include.course.when }}</i></small>
+    {% endif %}
+    <br/>
     {% if include.course.github %}
     <a href="https://github.com/{{ include.course.github }}">
       <img src="/img/ico/github.png" alt=""/>
     </a>
     {% endif %}
-    {% if include.course.when %}
-    <small><i>{{ include.course.when }}</i></small><br/>
-    {% endif %}
-    {% if include.course.prog %}
-    <small><i>{{ include.course.prog }}</i></small><br/>
-    {% endif %}
-    
-    
-    {% if include.course.about %}
-    <span> {{ include.course.about | markdownify }} </span>
-    {% endif %}
-    <br/>
-
     <!-- abstract -->
     {% if include.course.abstract %}
-      <a data-toggle="modal" href="#abstract{{ include.course.img }}" class="label label-default">Abstract</a>
+      <a data-toggle="modal" href="#abstract{{ include.course.img }}" class="label label-default">abstract</a>
       <!-- Modal -->
       <div class="modal fade" id="abstract{{ include.course.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
           <div class="modal-content">
@@ -37,12 +31,19 @@
               <h4 class="modal-title">{{ include.course.title }}</h4>
             </div>
             <div class="modal-body">
-              {{ include.course.abstract }}
+              {{ include.course.abstract | markdownify }}
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
     {% endif %}
+    
+    
+    {% if include.course.about %}
+    <span> {{ include.course.about | markdownify }} </span>
+    {% endif %}
+    <br/>
+
     
 
   </div>
