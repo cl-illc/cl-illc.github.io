@@ -1,6 +1,5 @@
 exclude: [README.md, resources/src]
 title: Computational Linguistics at ILLC
-shorttitle: CL@ILLC
 email: w.aziz@uva.nl
 description: > 
     This is where you will find all about computational linguistics at the ILLC.

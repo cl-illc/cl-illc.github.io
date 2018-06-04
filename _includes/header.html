@@ -2,12 +2,7 @@
 
   <div class="wrapper">
 
-    {% if page.layout != 'main' %}
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.shorttitle | escape }}</a>
-      <!--<a class="site-title" href="{{ site.baseurl }}/">{{ site.shorttitle }}</a>-->
-    {% else %}
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a><br/>
-    {% endif %}
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a><br/>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
