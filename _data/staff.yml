@@ -1,0 +1,33 @@
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: jelle
+  name: Jelle Zuidema 
+  url: //staff.fnwi.uva.nl/w.zuidema/
+  about: 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: raquel
+  name: Raquel Fernández 
+  url: //staff.science.uva.nl/r.fernandezrovira/
+  about: 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: khalil
+  name: Khalil Sima'an
+  url: //staff.fnwi.uva.nl/k.simaan/
+  about: 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: wilker
+  name: Wilker Aziz
+  url: //wilkeraziz.github.io
+  about: >
+      I am interested in *Bayesian models* for NLP including *deep generative models*.

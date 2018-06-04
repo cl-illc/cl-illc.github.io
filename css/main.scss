@@ -47,3 +47,52 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.img-circle {
+    border-radius: 50%;
+}
+.company-header-avatar{
+    width: 100%;
+    height: auto;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    background-position: center center;
+ }
+.landscape .company-header-avatar{
+    width: auto;
+    height: 100%;
+}
+.potrait .company-header-avatar{
+    width: 100%;
+    height: auto;
+}
+.image_cover{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    overflow:hidden;
+    float: left;
+    margin: 7px 0 0 5px;
+}
+
+.speech-bubble {
+	position: relative;
+	background: #00aabb;
+	border-radius: .4em;
+}
+
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 20px solid transparent;
+	border-bottom-color: #00aabb;
+	border-top: 0;
+	border-left: 0;
+	margin-left: -10px;
+	margin-top: -20px;
+}

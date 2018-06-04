@@ -2,7 +2,12 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% if page.layout != 'main' %}
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.shorttitle | escape }}</a>
+      <!--<a class="site-title" href="{{ site.baseurl }}/">{{ site.shorttitle }}</a>-->
+    {% else %}
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a><br/>
+    {% endif %}
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,14 +19,11 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.menu %}
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for apage in site.pages %}
+          {% if apage.menu %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ apage.title }}</a>
           {% endif %}
         {% endfor %}
-<!--        <a href="{{ site.departamental_page }}">
-            <img src="image/UoS.ico" alt="DCS">{{ site.current_department }}
-        </a>-->
       </div>
     </nav>
 
