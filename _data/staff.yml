@@ -5,15 +5,6 @@
   img: jelle
   name: Jelle Zuidema 
   url: //staff.fnwi.uva.nl/w.zuidema/
-  about: 
--
-  layout: person
-  selected: y
-  institution: UvA
-  img: raquel
-  name: Raquel Fernández 
-  url: //staff.science.uva.nl/r.fernandezrovira/
-  about: 
 -
   layout: person
   selected: y
@@ -21,7 +12,41 @@
   img: khalil
   name: Khalil Sima'an
   url: //staff.fnwi.uva.nl/k.simaan/
-  about: 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: raquel
+  name: Raquel Fernández 
+  url: //staff.science.uva.nl/r.fernandezrovira/
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: rens
+  name: Rens Bod
+  url: //www.uva.nl/profiel/b/o/l.w.m.bod/l.w.m.bod.html
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: henkjan
+  name: Henkjan Honing 
+  url: //www.mcg.uva.nl 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: ekaterina
+  name: Ekaterina Shutova 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Shutova+E. 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: ashley
+  name: Ashley Burgoyne
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Burgoyne+J.A.
 -
   layout: person
   selected: y
@@ -29,5 +54,19 @@
   img: wilker
   name: Wilker Aziz
   url: //wilkeraziz.github.io
-  about: >
-      I am interested in *Bayesian models* for NLP including *deep generative models*.
+  msg: |
+      I am interested in Bayesian models for NLP including deep generative models.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: elia
+  name: Elia Bruni
+  url: //staff.fnwi.uva.nl/e.bruni/ 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: iacer
+  name: Iacer Calixto
+  url: //computing.dcu.ie/~icalixto/
