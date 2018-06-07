@@ -44,6 +44,13 @@
   layout: person
   selected: y
   institution: UvA
+  img: tom
+  name: Tom Lentz 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
+-
+  layout: person
+  selected: y
+  institution: UvA
   img: ashley
   name: Ashley Burgoyne
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Burgoyne+J.A.
@@ -63,6 +70,13 @@
   img: elia
   name: Elia Bruni
   url: //staff.fnwi.uva.nl/e.bruni/ 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: miguel
+  name: Miguel Rios
+  url: //mriosb08.github.io 
 -
   layout: person
   selected: y
