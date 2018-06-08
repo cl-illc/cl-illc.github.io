@@ -2,23 +2,9 @@
   layout: person
   selected: y
   institution: UvA
-  img: jelle
-  name: Jelle Zuidema 
-  url: //staff.fnwi.uva.nl/w.zuidema/
--
-  layout: person
-  selected: y
-  institution: UvA
-  img: khalil
-  name: Khalil Sima'an
-  url: //staff.fnwi.uva.nl/k.simaan/
--
-  layout: person
-  selected: y
-  institution: UvA
-  img: raquel
-  name: Raquel Fernández 
-  url: //staff.science.uva.nl/r.fernandezrovira/
+  img: kaspar
+  name: Kaspar Beelen
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Beelen+K.
 -
   layout: person
   selected: y
@@ -30,23 +16,16 @@
   layout: person
   selected: y
   institution: UvA
-  img: henkjan
-  name: Henkjan Honing 
-  url: //www.mcg.uva.nl 
+  img: serge
+  name: Serge ter Braake
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Braake+S.+ter
 -
   layout: person
   selected: y
   institution: UvA
-  img: ekaterina
-  name: Ekaterina Shutova 
-  url: //www.illc.uva.nl/People/show_person.php?Person_id=Shutova+E. 
--
-  layout: person
-  selected: y
-  institution: UvA
-  img: tom
-  name: Tom Lentz 
-  url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
+  img: elia
+  name: Elia Bruni
+  url: //staff.fnwi.uva.nl/e.bruni/ 
 -
   layout: person
   selected: y
@@ -54,6 +33,48 @@
   img: ashley
   name: Ashley Burgoyne
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Burgoyne+J.A.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: iacer
+  name: Iacer Calixto
+  url: //computing.dcu.ie/~icalixto/
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: caio
+  name: Caio Corro
+  url: //caio-corro.fr
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: tejaswini
+  name: Tejaswini Deoskar
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Deoskar+T.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: paula
+  name: Paula Denissen
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Roncaglia+Denissen+M.P.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: marion
+  name: Marion Di Marco
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Di+Marco+M.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: raquel
+  name: Raquel Fernández 
+  url: //staff.science.uva.nl/r.fernandezrovira/
 -
   layout: person
   selected: y
@@ -67,9 +88,30 @@
   layout: person
   selected: y
   institution: UvA
-  img: elia
-  name: Elia Bruni
-  url: //staff.fnwi.uva.nl/e.bruni/ 
+  img: henkjan
+  name: Henkjan Honing 
+  url: //www.mcg.uva.nl 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: jaap
+  name: Jaap Kamps 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Kamps+J.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: tom
+  name: Tom Lentz 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: diego
+  name: Diego Marcheggiani
+  url: //diegma.github.io 
 -
   layout: person
   selected: y
@@ -81,6 +123,55 @@
   layout: person
   selected: y
   institution: UvA
-  img: iacer
-  name: Iacer Calixto
-  url: //computing.dcu.ie/~icalixto/
+  img: makiko
+  name: Makiko Sadakata
+  url: //www.sadakata.com
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: benjamin
+  name: Benjamin Schultz
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Schultz+B.G.
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: ekaterina
+  name: Ekaterina Shutova 
+  url: //www.illc.uva.nl/People/show_person.php?Person_id=Shutova+E. 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: khalil
+  name: Khalil Sima'an
+  url: //staff.fnwi.uva.nl/k.simaan/
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: ivan
+  name: Ivan Titov 
+  url: //ivan-titov.org 
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: daniel
+  name: Daniel Wiechmann
+  url: //www.daniel-wiechmann.net
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: henk
+  name: Henk Zeevat
+  url: //home.medewerker.uva.nl/h.w.zeevat/
+-
+  layout: person
+  selected: y
+  institution: UvA
+  img: jelle
+  name: Jelle Zuidema 
+  url: //staff.fnwi.uva.nl/w.zuidema/

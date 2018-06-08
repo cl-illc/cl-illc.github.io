@@ -4,10 +4,12 @@ title: People
 menu: no
 ---
 
+## Researchers
 
 {% assign people = (site.data.staff | where: "selected", "y") %}
-{% for person in people %}
-{% include person.html person=person %}
-{% endfor %}
+{% include people.html people=people %}
 
+## PhD candidates
 
+{% assign people = (site.data.phds | where: "selected", "y") %}
+{% include people.html people=people %}
