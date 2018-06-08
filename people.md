@@ -1,7 +1,7 @@
 ---
 layout: bubblelist
 title: People
-menu: no
+menu: yes
 ---
 
 ## Researchers
