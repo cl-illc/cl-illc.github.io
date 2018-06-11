@@ -1,13 +1,12 @@
 ---
 layout: default
 title: DL reading group
+subscribe: https://list.uva.nl/mailman/listinfo/dlm-illc
 menu: no
 ---
 
 This group is interested in deep learning for NLP.
 We meet bi-weekly on Tuesdays at 11:00.
-
-[Click here to subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
 
