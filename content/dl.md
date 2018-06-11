@@ -5,10 +5,9 @@ menu: no
 ---
 
 This group is interested in deep learning for NLP.
-
 We meet bi-weekly on Tuesdays at 11:00.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=d5etdgvg97ajfnbetjebkmbdis%40group.calendar.google.com&ctz=Europe%2FAmsterdam" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[Click here to subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
 
@@ -19,4 +18,6 @@ We meet bi-weekly on Tuesdays at 11:00.
 
 - 20180529: [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) 
 
+## Calendar
 
+<iframe src="https://calendar.google.com/calendar/embed?src=d5etdgvg97ajfnbetjebkmbdis%40group.calendar.google.com&ctz=Europe%2FAmsterdam" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
