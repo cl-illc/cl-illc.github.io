@@ -8,6 +8,8 @@ menu: no
 This group is interested in deep learning for NLP.
 We meet bi-weekly on Tuesdays at 11:00.
 
+[Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
+
 ## Upcoming meetings
 
 - 20180612: [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
