@@ -9,6 +9,7 @@
   abstract: >
     This reading group meets every other Tuesday to discuss papers on applications of deep learning to natural language processing.
   url: /content/dl
+  subscribe: //list.uva.nl/mailman/listinfo/dlm-illc
 -
   layout: group
   selected: y
