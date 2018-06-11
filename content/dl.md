@@ -5,6 +5,8 @@ subscribe: https://list.uva.nl/mailman/listinfo/dlm-illc
 menu: no
 ---
 
+# Deep Learning for NLP
+
 This group is interested in deep learning for NLP.
 We meet bi-weekly on Tuesdays at 11:00.
 
