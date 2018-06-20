@@ -14,7 +14,7 @@ We meet bi-weekly on Tuesdays at 11:00.
 
 ## Upcoming meetings
 
-- 20180626: [Improving Language Understanding by Generative Pre-Training](http://openai-assets.s3.amazonaws.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [Blog post](https://blog.openai.com/language-unsupervised/)
+- 20180626: [Improving Language Understanding by Generative Pre-Training](http://openai-assets.s3.amazonaws.com/research-covers/language-unsupervised/language_understanding_paper.pdf) (see this [blog post](https://blog.openai.com/language-unsupervised/))
 
 ## Past meetings
 
