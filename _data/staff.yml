@@ -1,6 +1,6 @@
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: kaspar
   name: Kaspar Beelen
@@ -14,7 +14,7 @@
   url: //www.uva.nl/profiel/b/o/l.w.m.bod/l.w.m.bod.html
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: serge
   name: Serge ter Braake
@@ -42,21 +42,21 @@
   url: //computing.dcu.ie/~icalixto/
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: caio
   name: Caio Corro
   url: //caio-corro.fr
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: tejaswini
   name: Tejaswini Deoskar
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Deoskar+T.
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: paula
   name: Paula Denissen
@@ -86,14 +86,14 @@
       I am interested in Bayesian models for NLP including deep generative models.
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: henkjan
   name: Henkjan Honing 
   url: //www.mcg.uva.nl 
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: jaap
   name: Jaap Kamps 
@@ -107,7 +107,7 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: diego
   name: Diego Marcheggiani
@@ -121,14 +121,14 @@
   url: //mriosb08.github.io 
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: makiko
   name: Makiko Sadakata
   url: //www.sadakata.com
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: benjamin
   name: Benjamin Schultz
@@ -149,21 +149,21 @@
   url: //staff.fnwi.uva.nl/k.simaan/
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: ivan
   name: Ivan Titov 
   url: //ivan-titov.org 
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: daniel
   name: Daniel Wiechmann
   url: //www.daniel-wiechmann.net
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: henk
   name: Henk Zeevat
