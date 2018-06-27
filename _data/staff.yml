@@ -83,7 +83,7 @@
   name: Wilker Aziz
   url: //wilkeraziz.github.io
   msg: |
-      I am interested in Bayesian models for NLP including deep generative models.
+      I am interested in probabilistic models for NLP and methods for approximate inference in general.
 -
   layout: person
   selected: n
