@@ -21,3 +21,14 @@
   abstract: >
     This reading group meets to discuss advanced approximate inference techniques, in particular, in the context of deep generative models
   url: //wilkeraziz.github.io/pages/inference
+-
+  layout: group
+  selected: y
+  img: bnn
+  uid: bnn
+  title: "Bayesian Neural Networks"
+  people: "Wilker Aziz"
+  note: 
+  abstract: >
+    Bayesian methods for neural network models
+  url: //wilkeraziz.github.io/pages/bnn
