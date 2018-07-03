@@ -7,7 +7,7 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Beelen+K.
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: rens
   name: Rens Bod
@@ -28,7 +28,7 @@
   url: //staff.fnwi.uva.nl/e.bruni/ 
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: ashley
   name: Ashley Burgoyne
@@ -63,7 +63,7 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Roncaglia+Denissen+M.P.
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: marion
   name: Marion Di Marco
@@ -100,7 +100,7 @@
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Kamps+J.
 -
   layout: person
-  selected: y
+  selected: n
   institution: UvA
   img: tom
   name: Tom Lentz 
