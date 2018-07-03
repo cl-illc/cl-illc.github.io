@@ -147,6 +147,8 @@
   img: khalil
   name: Khalil Sima'an
   url: //staff.fnwi.uva.nl/k.simaan/
+  msg: |
+      My work is mainly on probabilistic modeling for machine translation, parsing, morphology and other NLP tasks.
 -
   layout: person
   selected: n
