@@ -10,3 +10,15 @@
   github: uva-slpl/nlmi
   abstract: | 
     The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation.
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 4
+  prog: Bachelor Artificial Intelligence
+  img: tttv
+  title: Taaltheorie en Taalverwerking
+  url: //uva-slpl.github.io/nlmi/
+  institution: UvA
+  github: uva-slpl/nlmi
+  abstract: | 
+    The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation.
