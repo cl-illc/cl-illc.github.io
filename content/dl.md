@@ -13,7 +13,7 @@ We meet bi-weekly on Tuesdays at 11:00.
 [Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
-- 20180821: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
+- 20180911: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
 ## Past meetings
 
