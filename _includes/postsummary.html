@@ -1,4 +1,5 @@
 
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
   {% if post.tag %} :: {{ post.tag }} {% endif %} 
   {% if post.author %} • 

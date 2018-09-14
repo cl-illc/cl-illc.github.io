@@ -6,7 +6,7 @@ description: >
 url: "//cl-illc.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 github_username: cl-illc
-#paginate: 3
+paginate: 3
 
 # useful links
 illc_url: http://www.illc.uva.nl
