@@ -1,0 +1,12 @@
+
+<div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+  {% if post.tag %} :: {{ post.tag }} {% endif %} 
+  {% if post.author %} • 
+    {% if post.author.url %} 
+        <a href=" {{ post.author.url }} "> {{ post.author.name }} </a> 
+    {% else %} 
+        {{ post.author.name }} 
+    {% endif %}
+  {% endif %}
+  {% if post.meta %} • {{ post.meta }} {% endif %}
+</div>
