@@ -13,10 +13,13 @@ We meet bi-weekly on Tuesdays at 11:00.
 [Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
-- 20180911: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
+
+- 20181016: [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) and [this blog post](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 
 ## Past meetings
 
+- 20181002: [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199)
+- 20180911: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 - 20180814: [Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)
 - 20180626: [Improving Language Understanding by Generative Pre-Training](http://openai-assets.s3.amazonaws.com/research-covers/language-unsupervised/language_understanding_paper.pdf) ([blog post](https://blog.openai.com/language-unsupervised/)) & [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
 - 20180612: [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
