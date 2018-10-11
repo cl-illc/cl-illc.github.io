@@ -14,8 +14,7 @@ We meet bi-weekly on Tuesdays at 11:00.
 
 ## Upcoming meetings
 
-- 20181016: [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) or [
-Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) and [this blog post](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+- 20181016: [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829); optional extras: [[youtube]](https://www.youtube.com/watch?v=6S1_WqE55UQ) [[blog]](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) and [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 
 ## Past meetings
 
