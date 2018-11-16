@@ -1,6 +1,19 @@
 -
   layout: course
   selected: y
+  when: Semester 2, period 5 
+  prog: Master Artificial Intelligence
+  img: nlp2
+  title: Natural Language Processing I
+  url: //cl-illc.github.io/nlp1/
+  institution: UvA
+  github: cl-illc/nlp1
+  abstract: |
+    This course introduces Natural Language Processing for the MSc AI
+
+-
+  layout: course
+  selected: y
   when: Semester 2, period 5
   prog: Master Artificial Intelligence
   img: ull
