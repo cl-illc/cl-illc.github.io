@@ -18,6 +18,7 @@ We meet bi-weekly on Tuesdays at 11:00.
 ## Past meetings
 
 - 20181113: EMNLP recap
+- 20181106: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/pdf/1711.11279.pdf)
 - 20181023: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - 20181016: [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829); optional extras: [[youtube]](https://www.youtube.com/watch?v=6S1_WqE55UQ) [[blog]](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) and [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 - 20181002: [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199)
