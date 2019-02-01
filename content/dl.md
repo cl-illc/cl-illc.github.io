@@ -13,10 +13,10 @@ We meet bi-weekly on Tuesdays at 11:00.
 [Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
-- 20190129: [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)
+- 20190205: [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/pdf/1901.11373.pdf)
 
 ## Past meetings
-
+- 20190129: [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)
 - 20181127: [Generalization guides human exploration in vast decision spaces](https://www.biorxiv.org/content/biorxiv/early/2018/09/12/171371.full.pdf)
 - 20181113: EMNLP recap
 - 20181106: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/pdf/1711.11279.pdf)
