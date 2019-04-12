@@ -13,9 +13,11 @@ We meet bi-weekly on Tuesdays at 11:00.
 [Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
-- 20190219: [The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044)
+- 20190423: [A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)
 
 ## Past meetings
+- 20190402: [Attention is not Explanation](https://arxiv.org/abs/1902.10186)
+- 20190219: [The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044)
 - 20190205: [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/pdf/1901.11373.pdf)
 - 20190129: [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)
 - 20181127: [Generalization guides human exploration in vast decision spaces](https://www.biorxiv.org/content/biorxiv/early/2018/09/12/171371.full.pdf)
