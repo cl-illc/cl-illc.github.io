@@ -13,9 +13,11 @@ We meet bi-weekly on Tuesdays at 11:00.
 [Subscribe to the mailing list.](https://list.uva.nl/mailman/listinfo/dlm-illc)
 
 ## Upcoming meetings
-- 20190423: [A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)
+- 20190604: [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/pdf/1905.05950.pdf)
+- 20190611: [Systematic Generalization: What is Required and can it be Learned?](https://arxiv.org/abs/1811.12889v1)
 
 ## Past meetings
+- 20190423: [A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)
 - 20190402: [Attention is not Explanation](https://arxiv.org/abs/1902.10186)
 - 20190219: [The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044)
 - 20190205: [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/pdf/1901.11373.pdf)
