@@ -6,9 +6,7 @@ menu: no
 
 # DREAM Projects
 
-Supervision: [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and other members of the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at ILLC
-
-In the Dialogue Modelling Group at the ILLC, we carry out research at the interface of NLP, cognitive modelling, and AI. If you are interested in doing research in one of the following topics, you are very welcome to contact us: 
+In the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at the ILLC, we carry out research at the interface of NLP, cognitive modelling, and AI. If you are interested in doing research in one of the following topics, you are very welcome to contact us: 
 
 * Conversational agents (well-motivated models of dialogue agents, not simply chatbots)
 * Linguistic accommodation in dialogue and learning through interaction
