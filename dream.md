@@ -4,7 +4,7 @@ title: Dream Projects
 menu: no
 ---
 
-### Computational Dialogue Modelling
+# DREAM Projects
 
 Supervision: [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and other members of the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at ILLC
 
@@ -25,9 +25,9 @@ We are interested in working with students who have:
 * An interest in analyzing and understanding models’ activations and predictions
 * Familiarity with (one of) the following libraries: pytorch, tensorflow, keras
 
+----
 
-
-### Visually Grounded Dialogue with the PhotoBook Dataset
+## Visually Grounded Dialogue with the PhotoBook Dataset
 
 Supervision: [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and other members of the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at ILLC
 
@@ -66,7 +66,7 @@ Our [analysis](https://dmg-photobook.github.io/analysis.html) of the PhotoBook d
 
 
 
-### A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
+## A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
 
 Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and [Sandro Pezzelle](s.pezzelle@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
 
