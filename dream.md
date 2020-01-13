@@ -27,7 +27,7 @@ We are interested in working with students who have:
 
 ----
 
-## Visually Grounded Dialogue with the PhotoBook Dataset
+## 1. Visually Grounded Dialogue with the PhotoBook Dataset
 
 Supervision: [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and other members of the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at ILLC
 
@@ -66,7 +66,7 @@ Our [analysis](https://dmg-photobook.github.io/analysis.html) of the PhotoBook d
 
 
 
-## A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
+## 2. A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
 
 Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl) and [Sandro Pezzelle](s.pezzelle@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
 
