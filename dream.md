@@ -94,7 +94,7 @@ Overall, best-performing systems (e.g., FiLM; Perez et al., 2018) turn out to pe
 * Vondrick, C., Oktay, D., Pirsiavash, H., & Torralba, A. (2016). Predicting motivations of actions by leveraging text. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2997-3005).
 
 
-## 3. A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
+## 3. Investigating the Context-Dependence of Quantifiers Using Contextualised Word Representations
 
 Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl), [Sandro Pezzelle](mailto:s.pezzelle@uva.nl), [Mario Giulianelli](mailto:m.giulianelli@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
 
@@ -111,12 +111,12 @@ Examples of possible metrics of variability are:
 * *mutual information* between token representations at a certain layer and an input token
 * *PWCCA distance* between consecutive layers of the same model
 
-#### Requisites:
+#### Requisites
 * Experience with neural networks and deep learning architectures
 * An interest in natural language and cognitively-inspired topics
 * Familiarity with (one of) the following libraries: pytorch, tensorflow
 
-#### References:
+#### References
 * Pezzelle, S., Steinert-Threlkeld, S., Bernardi, R., & Szymanik, J. (2018). Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 114-119).
 * Boleda, G., Gulordava, K., & Aina, L. (2019). Putting words in context: LSTM language models and lexical ambiguity. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics; 2019 Jul 28-Aug 2; Florence, Italy. Stroudsburg (PA): ACL; 2019. p. 3342–8. ACL (Association for Computational Linguistics).
 * Ethayarajh, K. (2019). How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 55-65).
