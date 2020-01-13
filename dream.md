@@ -23,7 +23,7 @@ We are interested in working with students who have:
 * An interest in analyzing and understanding models’ activations and predictions
 * Familiarity with (one of) the following libraries: pytorch, tensorflow, keras
 
-# DREAM Projects
+# Projects
 
 ## 1. Visually Grounded Dialogue with the PhotoBook Dataset
 
@@ -86,9 +86,40 @@ Overall, best-performing systems (e.g., FiLM; Perez et al., 2018) turn out to pe
 * Familiarity with (one of) the following libraries: pytorch, tensorflow, keras
 
 #### References:
-* Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Mar- garet Mitchell, Dhruv Batra, C Lawrence Zitnick, and Devi Parikh. 2015. Vqa: Visual question answering. In Proceedings of the IEEE international conference on computer vision, pages 2425–2433.
+* Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C Lawrence Zitnick, and Devi Parikh. 2015. Vqa: Visual question answering. In Proceedings of the IEEE international conference on computer vision, pages 2425–2433.
 * Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C Lawrence Zitnick, and Ross Girshick. 2017a. Clevr: A diagnostic dataset for compositional language and elementary visual reasoning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 2901–2910.
 * Ethan Perez, Florian Strub, Harm De Vries, Vincent Dumoulin, and Aaron Courville. 2018. Film: Visual reasoning with a general conditioning layer. In Thirty-Second AAAI Conference on Artificial Intelligence.
 * Sandro Pezzelle and Raquel Fernández. 2019. Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing. Forthcoming.
 * Lauren A Schmidt, Noah D Goodman, David Barner, and Joshua B Tenenbaum. 2009. How tall is tall? Compositionality, statistics, and gradable adjectives. In Proceedings of the 31st annual conference of the cognitive science society, pages 2759–2764. Citeseer.
 * Vondrick, C., Oktay, D., Pirsiavash, H., & Torralba, A. (2016). Predicting motivations of actions by leveraging text. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2997-3005).
+
+
+## 3. A *Relational* Approach to Visual Question Answering: Reasoning about Objects’ Size
+
+Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl), [Sandro Pezzelle](mailto:s.pezzelle@uva.nl), [Mario Giulianelli](mailto:m.giulianelli@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
+
+#### Description
+Some quantifiers are more context-dependent than others. In particular, so-called proportional quantifiers (e.g. *few*, *many*, *most*) are deemed to exhibit stronger context-dependence than logical or Aristotelean quantifiers (*none*, *some*, *all*). This hypothesis can be tested using contextualised word representations produced by a neural language model.
+
+Given a lemma of interest and a corpus, a language model produces multiple contextualised representations—one for each occurrence of the lemma. We expect the variability of a quantifier's representations to be higher for proportional quantifiers (which tend to be vague across contexts) than for logical quantifiers (which should appear more stable). 
+The project will involve finding an optimal measure of context-dependence and, possibly, testing the hypothesis across a variety of domains and types of language use (e.g. dialogues). It can also be extended to consider other vague expressions.
+
+Examples of possible metrics of variability are:
+* *self-similarity*: average geometric similarity between a word’s contextualized representations across all its contexts of occurrence. The more contextualized the representations are for w, the lower we would expect its self-similarity to be.
+* *intra-sentence similarity*: average geometric similarity between a word’s contextualised representations and the corresponding sentence vectors (across all sentences that contain the target word). If both these measures are low, then the model contextualizes words by giving each one a context-specific representation that is still distinct from all other word representations in the sentence. If intra-sentence similarity is high but self-similarity is low, this suggests a less nuanced contextualization, where words in a sentence are contextualized simply by making their representations converge in vector space.
+* *maximum explainable variance*: the proportion of variance in a word’s contextualized representations that can be explained by their first principal component.
+* *mutual information* between token representations at a certain layer and an input token
+* *PWCCA distance* between consecutive layers of the same model
+
+#### Requisites:
+* Experience with neural networks and deep learning architectures
+* An interest in natural language and cognitively-inspired topics
+* Familiarity with (one of) the following libraries: pytorch, tensorflow
+
+#### References:
+* Pezzelle, S., Steinert-Threlkeld, S., Bernardi, R., & Szymanik, J. (2018). Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 114-119).
+* Boleda, G., Gulordava, K., & Aina, L. (2019). Putting words in context: LSTM language models and lexical ambiguity. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics; 2019 Jul 28-Aug 2; Florence, Italy. Stroudsburg (PA): ACL; 2019. p. 3342–8. ACL (Association for Computational Linguistics).
+* Ethayarajh, K. (2019). How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 55-65).
+* Voita, E., Sennrich, R., & Titov, I. (2019). The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 4387-4397).
+* Warstadt, A., Cao, Y., Grosu, I., Peng, W., Blix, H., Nie, Y., ... & Wang, S. F. (2019). Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 2870-2880).
+* Kassner, N., & Schütze, H. (2019). Negated LAMA: Birds cannot fly. arXiv preprint arXiv:1911.03343.
