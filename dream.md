@@ -4,7 +4,7 @@ title: Dream Projects
 menu: no
 ---
 
-# DREAM Projects
+# Computational Dialogue Modelling
 
 In the [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/) at the ILLC, we carry out research at the interface of NLP, cognitive modelling, and AI. If you are interested in doing research in one of the following topics, you are very welcome to contact us: 
 
@@ -23,7 +23,7 @@ We are interested in working with students who have:
 * An interest in analyzing and understanding models’ activations and predictions
 * Familiarity with (one of) the following libraries: pytorch, tensorflow, keras
 
-----
+# DREAM Projects
 
 ## 1. Visually Grounded Dialogue with the PhotoBook Dataset
 
