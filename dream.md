@@ -94,7 +94,7 @@ Overall, best-performing systems (e.g., FiLM; Perez et al., 2018) turn out to pe
 * Vondrick, C., Oktay, D., Pirsiavash, H., & Torralba, A. (2016). Predicting motivations of actions by leveraging text. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2997-3005).
 
 
-## 3. Investigating the Context-Dependence of Quantifiers Using Contextualised Word Representations
+## 3. Some Quantifiers Are More Equal than Others: Measuring Context-Dependence with Contextualised Word Representations
 
 Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl), [Sandro Pezzelle](mailto:s.pezzelle@uva.nl), [Mario Giulianelli](mailto:m.giulianelli@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
 
