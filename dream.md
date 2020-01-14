@@ -99,7 +99,7 @@ Overall, best-performing systems (e.g., FiLM; Perez et al., 2018) turn out to pe
 Supervisors:  [Raquel Fernández](mailto:raquel.fernandez@uva.nl), [Sandro Pezzelle](mailto:s.pezzelle@uva.nl), [Mario Giulianelli](mailto:m.giulianelli@uva.nl) ([Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php) ILLC)
 
 #### Description
-Some quantifiers are more context-dependent than others. In particular, so-called proportional quantifiers (e.g. *few*, *many*, *most*) are deemed to exhibit stronger context-dependence than logical or Aristotelean quantifiers (*none*, *some*, *all*). This hypothesis can be tested using contextualised word representations produced by a neural language model.
+Some quantifiers are more context-dependent than others. In particular, the interpretation of so-called proportional quantifiers (e.g. *few*, *many*, *most*) is deemed to exhibit stronger context-dependence than the interpretation of logical or Aristotelean quantifiers (*none*, *some*, *all*). This hypothesis can be tested using contextualised word representations produced by a neural language model.
 
 Given a lemma of interest and a corpus, a language model produces multiple contextualised representations—one for each occurrence of the lemma. We expect the variability of a quantifier's representations to be higher for proportional quantifiers (which tend to be vague across contexts) than for logical quantifiers (which should appear more stable). 
 The project will involve finding an optimal measure of context-dependence and, possibly, testing the hypothesis across a variety of domains and types of language use (e.g. dialogues). It can also be extended to consider other vague expressions.
