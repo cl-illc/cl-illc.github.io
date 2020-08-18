@@ -16,13 +16,6 @@
   layout: person
   selected: y
   institution: UvA
-  img: joost
-  name: Joost Bastings
-  url: https://bastings.github.io
--
-  layout: person
-  selected: y
-  institution: UvA
   img: bas 
   name: Bas Cornelissen
   url: //bascornelissen.nl
