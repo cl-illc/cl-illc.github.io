@@ -1,41 +1,62 @@
 -
   layout: person
-  selected: y
+  selected: nlp
   institution: UvA
   img: samira
   name: Samira Abnar
   url: //staff.fnwi.uva.nl/s.abnar/
 -
   layout: person
-  selected: y
+  selected: nlp
+  institution: UvA
+  img: ece
+  name: Ece Takmaz
+  url: //ecekt.github.io
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: mario
+  name: Mario Giulianelli
+  url: //gmario.eu/
+-
+  layout: person
+  selected: nlp
   institution: UvA
   img: sophie
   name: Sophie Arnoult
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Arnoult+S.I.
 -
   layout: person
-  selected: y
+  selected: nlp
+  institution: UvA
+  img: bryan
+  name: Bryan Eikema
+  url: //roxot.github.io
+-
+  layout: person
+  selected: music
   institution: UvA
   img: bas 
   name: Bas Cornelissen
   url: //bascornelissen.nl
 -
   layout: person
-  selected: n
+  selected: nlpalumni
   institution: UvA
   img: mostafa
   name: Mostafa Dehghani
   url: //mostafadehghani.com
 -
   layout: person
-  selected: y
+  selected: nlpalumni
   institution: UvA
   img: marco
   name: Marco Del Tredici 
   url: //sites.google.com/site/marcodeltredici/
 -
   layout: person
-  selected: y
+  selected: nlpalumni
   institution: UvA
   img: dieuwke
   name: Dieuwke Hupkes
@@ -49,44 +70,64 @@
   url: //www.uva.nl/profiel/m/o/g.e.n.mojet/g.e.n.mojet.html
 -
   layout: person
-  selected: n
+  selected: nlp
   institution: UvA
   img: michael
   name: Michael Schlichtkrull 
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Schlichtkrull+M.S.
 -
   layout: person
-  selected: n
+  selected: nlpalumni
   institution: UvA
   img: philip
   name: Philip Schulz
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Schulz+P.
 -
   layout: person
-  selected: n
+  selected: musicalumni
   institution: UvA
   img: carlos 
   name: Carlos Vaquero
   url: //carlosvaquero.com
 -
   layout: person
-  selected: n
+  selected: nlp
   institution: UvA
   img: avatar
   name: Elena Voita 
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Voita+E.
 -
   layout: person
-  selected: n
+  selected: musicalumni
   institution: UvA
   img: joey
   name: Joey Weidema
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Weidema+J.L. 
 -
   layout: person
-  selected: n
+  selected: musicalumni
   institution: UvA
   img: bastiaan
   name: Bastiaan van der Weij
   url: //www.bastiaan.org
-
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: avatar
+  name: Rochelle Choenni
+  url: //www.illc.uva.nl
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: oskar
+  name: Oskar van der Wal
+  url: //www.illc.uva.nl
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: jaapj
+  name: Jaap Jumelet
+  url: //jumelet.ai
