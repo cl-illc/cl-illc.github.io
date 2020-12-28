@@ -3,26 +3,13 @@
   selected: y
   when: Semester 2, period 5
   prog: Bachelor Artificial Intelligence
-  img: nlmi
+  img: nlp1
   title: Taaltheorie & Taalverwerking
   url: 
   institution: UvA
   github: 
   abstract: | 
     The course covers some of the essential techniques in natural language processing with a focus on syntax and semantics
-
--
-  layout: course
-  selected: y
-  when: Semester 2, period 4
-  prog: Bachelor Artificial Intelligence
-  img: nlmi
-  title: Natural Language Models and Interfaces
-  url: //cl-illc.github.io/nlmi/
-  institution: UvA
-  github: cl-illc/nlmi
-  abstract: | 
-    The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation.
 
 -
   layout: course

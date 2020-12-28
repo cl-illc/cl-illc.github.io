@@ -16,7 +16,7 @@
   selected: y
   when: Semester 2, period 4 
   prog: Master Artificial Intelligence
-  img: attention-transformer
+  img: fireworks
   title: Natural Language Processing II
   url: //uva-slpl.github.io/nlp2/
   institution: UvA
@@ -33,7 +33,7 @@
   selected: y
   when: Semester 2, period 5
   prog: Master of Logic, Master Artificial Intelligence
-  img: ull
+  img: fireworks
   title: Advanced Topics in Computational Semantics
   url: //cl-illc.github.io/semantics-2020/
   institution: UvA
@@ -46,7 +46,7 @@
   selected: y
   when: Semester 2, period 5
   prog: Master of Logic, Master Artificial Intelligence
-  img: ull
+  img: fireworks
   title: Computational Dialogue Modelling
   url: 
   institution: UvA
@@ -59,7 +59,7 @@
   selected: y
   when: Semester 1, period 2
   prog: Master Brain and Cognitive Sciences
-  img: hopfield-3node.gif
+  img: guclu_vangerven15_F2
   title: Foundations of Neural and Cognitive Modelling
   url: //staff.fnwi.uva.nl/w.zuidema/teaching/
   institution: UvA
