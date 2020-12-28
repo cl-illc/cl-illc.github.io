@@ -25,7 +25,7 @@
     This is a course about multilinguality and machine translation where we cover:
 
     * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)
-    * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarhical PBSMT
+    * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarchical PBSMT
     * Neural machine translation: fully supervised sequence to sequence models, deep generative models
 
 -
@@ -38,7 +38,7 @@
   url: //cl-illc.github.io/semantics-2020/
   institution: UvA
   github: 
-  abstract: | 
+  abstract: |
     The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multitask learning) and meta-learning methods (enabling fast model adaptation from only a few examples).
 
 -
@@ -51,7 +51,8 @@
   url: 
   institution: UvA
   github: 
-  abstract: 
+  abstract: |
+    Conversation or dialogue is the most natural way in which we humans use language, and arguably the holy grail of language-enabled AI systems. With machine learning advancing at such a rapid pace, we now have powerful tools for modelling interacting agents. Yet, to model human-like conversational abilities remains remarkably difficult. This course will examine what makes dialogue so challenging, delving into classic and contemporary research in linguistics, cognitive science, NLP and AI.
 
 -
   layout: course
