@@ -131,3 +131,10 @@
   img: jaapj
   name: Jaap Jumelet
   url: //jumelet.ai
+-
+  layout: person
+  selected: nlpalumni
+  institution: UvA
+  img: jasmijn
+  name: Jasmijn Bastings
+  url: //bastings.github.io/
