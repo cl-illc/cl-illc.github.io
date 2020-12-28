@@ -14,20 +14,7 @@
 -
   layout: course
   selected: y
-  when: Semester 2, period 5
-  prog: Master Artificial Intelligence
-  img: ull
-  title: Unsupervised Language Learning
-  url: //uva-slpl.github.io/ull/
-  institution: UvA
-  github: uva-slpl/ull
-  abstract: | 
-    The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
-
--
-  layout: course
-  selected: y
-  when: Semester 2, period 5 
+  when: Semester 2, period 4 
   prog: Master Artificial Intelligence
   img: nlp2
   title: Natural Language Processing II
@@ -40,3 +27,55 @@
     * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)
     * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarhical PBSMT
     * Neural machine translation: fully supervised sequence to sequence models, deep generative models
+
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 5
+  prog: Master of Logic, Master Artificial Intelligence
+  img: ull
+  title: Advanced Topics in Computational Semantics
+  url: //cl-illc.github.io/semantics-2020/
+  institution: UvA
+  github: 
+  abstract: | 
+    The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multitask learning) and meta-learning methods (enabling fast model adaptation from only a few examples).
+
+-
+  layout: course
+  selected: y
+  when: Semester 2, period 5
+  prog: Master of Logic, Master Artificial Intelligence
+  img: ull
+  title: Computational Dialogue Modelling
+  url: 
+  institution: UvA
+  github: 
+  abstract: 
+
+-
+  layout: course
+  selected: y
+  when: Semester 1, period 2
+  prog: Master Brain and Cognitive Sciences
+  img: ull
+  title: Foundations of Neural and Cognitive Modelling
+  url: //staff.fnwi.uva.nl/w.zuidema/teaching/
+  institution: UvA
+  github: 
+  abstract: | 
+    The course covers foundations of neural and cognitive modelling, including differential equation models of single neurons, neural networks, Hopfield, backprop, reinforcement learning, symbolic models, Bayesian models.
+    
+-
+  layout: course
+  selected: y
+  when: Semester 1, period 1
+  prog: Master Brain and Cognitive Sciences
+  img: ull
+  title: Advanced Neural and Cognitive Modelling
+  url: //staff.fnwi.uva.nl/w.zuidema/teaching/
+  institution: UvA
+  github: 
+  abstract: | 
+    The course covers advanced techniques in neural and cognitive modelling.
+

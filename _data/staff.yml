@@ -62,11 +62,18 @@
   url: //www.mcg.uva.nl 
 -
   layout: person
-  selected: nlpalumni
+  selected: nlp
   institution: UvA
   img: tom
   name: Tom Lentz 
   url: //www.illc.uva.nl/People/show_person.php?Person_id=Lentz+T.O. 
+-
+  layout: person
+  selected: nlp
+  institution: UvA
+  img: giovanni
+  name: Giovanni Colavizza
+  url: https://www.giovannicolavizza.com/
 -
   layout: person
   selected: n
