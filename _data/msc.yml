@@ -16,7 +16,7 @@
   selected: y
   when: Semester 2, period 4 
   prog: Master Artificial Intelligence
-  img: nlp2
+  img: attention-transformer
   title: Natural Language Processing II
   url: //uva-slpl.github.io/nlp2/
   institution: UvA
@@ -59,7 +59,7 @@
   selected: y
   when: Semester 1, period 2
   prog: Master Brain and Cognitive Sciences
-  img: ull
+  img: hopfield-3node.gif
   title: Foundations of Neural and Cognitive Modelling
   url: //staff.fnwi.uva.nl/w.zuidema/teaching/
   institution: UvA
@@ -72,7 +72,7 @@
   selected: y
   when: Semester 1, period 1
   prog: Master Brain and Cognitive Sciences
-  img: ull
+  img: guclu_vangerven15_F2
   title: Advanced Neural and Cognitive Modelling
   url: //staff.fnwi.uva.nl/w.zuidema/teaching/
   institution: UvA
