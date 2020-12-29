@@ -2,6 +2,11 @@
 
 This repository hosts cl-illc's github pages.
 
+# Edit the database with people and courses
+
+First of all, be careful because the databases required very specific formats. The data about courses we teach can be entered in _data/bsc.yml and _data/msc.yml. In the future, it would be nice if tutorials.yml gets filled up as well (e.g. w/ links to Wilker's tutorial, Jelle's ESSLLI'2021 course). Information about people can be entered in _data/phds.yml and _data/staff.yml. Make sure to also add a picture (for now: only jpg seems to work) in img/people/
+
+
 # Contribute a page
 
 You can add a page by adding a markdown file to the root of the repository. This file stards with a header
