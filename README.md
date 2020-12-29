@@ -6,10 +6,17 @@ This repository hosts cl-illc's github pages.
 
 First of all, be careful because the databases required very specific formats. The data about courses we teach can be entered in _data/bsc.yml and _data/msc.yml. In the future, it would be nice if tutorials.yml gets filled up as well (e.g. w/ links to Wilker's tutorial, Jelle's ESSLLI'2021 course). Information about people can be entered in _data/phds.yml and _data/staff.yml. Make sure to also add a picture (for now: only jpg seems to work) in img/people/
 
+# Contribute news items
+
+Please contribute as many news-worthy items as possible. All that is required is to add a markdown-file in the _posts folder.
+
+# Help write the "Things you may know us for page"
+
+I (Jelle) would like to have a page output.md that explains our most wellknown contributions (DOP, Graph convolution, TreeLSTM, Lambada, etc.) with nice graphs and accessible text.
 
 # Contribute a page
 
-You can add a page by adding a markdown file to the root of the repository. This file stards with a header
+You can add a page by adding a markdown file to the root of the repository. This file starts with a header
 
 ```
 ---
