@@ -40,11 +40,11 @@
 -
   layout: course
   selected: y
-  when: Semester 1, period 1
+  when: Semester 2, period 5
   prog: Bachelor Psychobiology
   img: fireworks
   title: Evolution of Language and Music
-  url: 
+  url: //staff.fnwi.uva.nl/w.zuidema/teaching/
   institution: UvA
   github: 
   abstract: | 
