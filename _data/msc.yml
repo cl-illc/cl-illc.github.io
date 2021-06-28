@@ -70,7 +70,7 @@
 -
   layout: course
   selected: y
-  when: Semester 1, period 1
+  when: Semester 1, period 1 (not taught in 2021-2022)
   prog: Master Brain and Cognitive Sciences
   img: guclu_vangerven15_F2
   title: Advanced Neural and Cognitive Modelling
